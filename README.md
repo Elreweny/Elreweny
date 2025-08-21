@@ -18,14 +18,7 @@ I also enjoy learning about performance optimization and design systems 🎨.
   <a href="https://ahmed-elreweny.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" height=25></a>
 </p>
 
-<p align=center>
-  <a href="https://github.com/ahmed-elreweny">
-    <img src="https://badges.pufler.dev/visits/ahmed-elreweny/ahmed-elreweny?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/ahmed-elreweny?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/ahmed-elreweny?style=flat-square&color=black&logo=github">
-  </a>
-</p>
+
 
 <p align="center">
 <a href="https://github.com/ahmed-elreweny"><img src="https://img.shields.io/github/followers/ahmed-elreweny?style=social"></a>
